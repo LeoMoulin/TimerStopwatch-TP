@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class IdleTest {
 
 	private Context context;
-	
+
 	@BeforeEach
 	void setUp() {
 		// reset the initial values of timer to avoid inferences between different consecutive tests
