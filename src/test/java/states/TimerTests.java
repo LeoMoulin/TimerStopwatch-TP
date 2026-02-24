@@ -9,6 +9,7 @@ import states.stopwatch.AbstractStopwatch;
 class TimerTests {
 
 	private static Context context;
+
 	private ClockState current, newState;
 
 	@BeforeEach
